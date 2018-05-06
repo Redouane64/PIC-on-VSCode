@@ -1,4 +1,7 @@
-
+/*
+ * Led Blink example on PIC16F84A.
+ *
+ */
 #include <xc.h>
 #include <pic16f84a.h>
 
