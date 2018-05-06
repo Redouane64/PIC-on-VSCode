@@ -1,0 +1,55 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}"
+            ],
+            "defines": [],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "macFrameworkPath": [
+
+            ]
+        },
+        {
+            "name": "Linux",
+            "includePath": [],
+            "defines": [],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        },
+        {
+            "name": "Windows",
+            "includePath": [
+                "${workspaceFolder}",
+                "C:/Program Files (x86)/Microchip/xc8/v1.45/include/*",
+                "C:/Program Files (x86)/Microchip/xc8/v1.45/include/legacy/*"
+            ],
+            "defines": [],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "C:/Program Files (x86)/Microchip/xc8/v1.45/include/*",
+                    "C:/Program Files (x86)/Microchip/xc8/v1.45/include/legacy/*"
+                ],
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "cStandard": "c89",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 3
+}
