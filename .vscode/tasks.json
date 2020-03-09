@@ -12,16 +12,6 @@
                     "16f84" // Update this to Chip you're targeting.
                 ]
             }
-        },
-        {
-            "label": "Build Samples",
-            "type": "shell",
-            "windows": {
-                "command": ".\\Build-Samples",
-                "args": [
-                    "16f84" // Update this to Chip you're targeting.
-                ]
-            }
         }
     ]
 }
