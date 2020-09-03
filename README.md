@@ -1,3 +1,5 @@
+## XC8.exe SHOULD BE ON THE PATH!!!
+
 ## PIC MCU on VSCode:
 
 This repository contains configuration files to setup development environment for PIC Microcontrollers with Microchip XC compiler on Visual Studio Code.
